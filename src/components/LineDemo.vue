@@ -8,6 +8,7 @@ import echarts from 'echarts'
 import echartTheme from '../assets/theme/westeros.json'
 const colors = ['rgb(209,248,139)', 'rgb(115,201,245)', 'rgb(124,136,146)']
 export default {
+    name:'LineDemo',
     data(){
         return{
             timer:'',

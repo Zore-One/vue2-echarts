@@ -8,7 +8,7 @@
 </template>
 <script>
 export default {
-    
+    name:'IconDemo'
 }
 </script>
 <style lang="scss" scoped>

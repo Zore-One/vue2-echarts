@@ -40,7 +40,7 @@ export default {
             }
             this.timer = setTimeout(function(){
                 that.updateDom()
-                console.log(1111)
+                // console.log(1111)
             },10)
         },
         initSize(){

@@ -13,6 +13,7 @@
 </template>
 <script>
 export default {
+    name:'menuDemo',
     data(){
         return{
             isanina:false,

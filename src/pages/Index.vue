@@ -42,29 +42,29 @@
 </template>
 <script>
 import Container from '../components/Container'
-import LineDemo from '../components/LineDemo'
-import BarDemo from '../components/BarDemo'
-import menuDemo from '../components/menuDemo'
-import TabDemo from '../components/TabDemo'
-import PieDemo from '../components/PieDemo'
-import TotalUser from '../components/TotalUser'
-import IconDemo from '../components/IconDemo'
-import RadarDemo from '../components/RadarDemo'
-import Loading from '../components/Loading'
-import EchatList from '../components/EchatList'
+// import LineDemo from '../components/LineDemo'
+// import BarDemo from '../components/BarDemo'
+// import menuDemo from '../components/menuDemo'
+// import TabDemo from '../components/TabDemo'
+// import PieDemo from '../components/PieDemo'
+// import TotalUser from '../components/TotalUser'
+// import IconDemo from '../components/IconDemo'
+// import RadarDemo from '../components/RadarDemo'
+// import Loading from '../components/Loading'
+// import EchatList from '../components/EchatList'
 export default {
     components:{
         Container,
-        LineDemo,
-        BarDemo,
-        menuDemo,
-        TabDemo,
-        PieDemo,
-        TotalUser,
-        IconDemo,
-        RadarDemo,
-        Loading,
-        EchatList
+        // LineDemo,
+        // BarDemo,
+        // menuDemo,
+        // TabDemo,
+        // PieDemo,
+        // TotalUser,
+        // IconDemo,
+        // RadarDemo,
+        // Loading,
+        // EchatList
     },
     data(){
         return{

@@ -23,6 +23,7 @@ import echarts from 'echarts'
 import echartTheme from '../assets/theme/westeros.json'
 import TabDemo from './TabDemo'
 export default {
+    name:'EchatList',
     components:{
         TabDemo
     },

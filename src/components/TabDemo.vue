@@ -10,6 +10,7 @@
 //公共组件 通用组件
 //如分页,弹框,特征：数据谁用谁传，时间需要往上传递
 export default {
+    name:'TabDemo',
     props:{
         arr:Array 
     },

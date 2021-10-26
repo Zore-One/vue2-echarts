@@ -7,6 +7,7 @@
 import echarts from 'echarts'
 import echartTheme from '../assets/theme/westeros.json'
 export default {
+    name:'PieDemo',
     data(){
         return{
             mychart:null,

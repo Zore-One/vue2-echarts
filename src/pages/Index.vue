@@ -12,7 +12,7 @@
                     <div class="left5"><LineDemo/></div>
                     <div class="left6"><BarDemo/></div>
                 </div>
-                <div class="right">
+                <div class="right to-you">
                     <div class="right1"><IconDemo/></div>
                     <div class="right2"><TabDemo :arr="['北京', '上海', '深圳', '广州', '杭州', '南京']"/></div>
                     <div class="right3">
